@@ -1,1 +1,1 @@
-# Google-News
+# News scripts and example data
