@@ -1,0 +1,1 @@
+Collects various headlines from Google News New Zealand.
